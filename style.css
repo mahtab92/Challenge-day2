@@ -1,0 +1,24 @@
+.contianer-1{
+    border: 1px solid black;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    width: 75%;
+    margin: 0 auto;
+}
+.flex-box-contianer-2{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+border: 2px solid blue;
+
+}
+.flex-box-contianer-2 img{
+    margin: 20px;
+    padding: 2px;
+    justify-content: space-around;
+    flex: 1 1 1rem;
+    box-shadow: 0px 10px 50px rgb(139, 139, 221) ;
+}
+
+
